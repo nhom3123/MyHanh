@@ -1715,6 +1715,12 @@ body {
   white-space: nowrap;
   z-index: 100;
 }
+@media screen and (max-width: 768px) {
+  body {
+      font-size: 20px; /* Chỉ áp dụng trên màn hình nhỏ */
+  }
+}
+
 
 
 
