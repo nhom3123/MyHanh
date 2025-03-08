@@ -1710,15 +1710,10 @@ body {
   padding: 10px 20px;
   border-radius: 20px;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 25px;
   color: #ff4081;
   white-space: nowrap;
   z-index: 100;
-}
-@media screen and (max-width: 768px) {
-  body {
-      font-size: 20px; /* Chỉ áp dụng trên màn hình nhỏ */
-  }
 }
 
 
